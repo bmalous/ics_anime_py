@@ -2,7 +2,7 @@
 
 [`ics_anime.py`](ics_anime.py) builds an `.ics` calendar from anime schedules and lets you choose which streaming providers and shows to follow. It includes an interactive keyboard interface, persistent selections, a local JSON cache, and a chronological view of selected episodes airing this week.
 
-For the PowerShell implementation, see [ics_anime.ps1](../ics_anime_ps1/ics_anime.ps1).
+For the PowerShell implementation, see [ics_anime_ps1](https://github.com/bmalous/ics_anime_ps1).
 
 ## Contents
 
